@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./traitedastronom02schugoog_0014.png"; bbox 0 0 4320 5648; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 749 1479 2137 1795">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 749 1469 2137 1814">
+     <span class='ocr_line' id='line_1_1' title="bbox 749 1479 2137 1795; baseline 0.005 -7"><span class='ocrx_word' id='word_1_1' title='bbox 749 1547 1641 1795; x_wconf 68' lang='lat' dir='ltr'><strong>TRA1TE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1861 1596 1910 1680; x_wconf 91' lang='lat'><em>³</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2125 1479 2137 1680; x_wconf 86' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 402 2123 1994 2362">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 402 2111 2034 2420">
+     <span class='ocr_line' id='line_1_2' title="bbox 402 2123 1994 2362; baseline 0.001 -41"><span class='ocrx_word' id='word_1_4' title='bbox 402 2123 1243 2325; x_wconf 73' lang='lat' dir='ltr'><strong>D’ASTRONOMIE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1303 2127 1994 2362; x_wconf 77' lang='lat' dir='ltr'><strong>THEORIQUE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 358 2666 2075 2912">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 358 2666 2075 2912">
+     <span class='ocr_line' id='line_1_3' title="bbox 358 2666 2075 2912; baseline 0.003 -41"><span class='ocrx_word' id='word_1_6' title='bbox 358 2773 363 2783; x_wconf 91' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 500 2666 1207 2879; x_wconf 68' lang='grc' dir='ltr'>ἈεΤΒοΝοΜΙΕ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1284 2735 1826 2912; x_wconf 78' lang='lat' dir='ltr'><strong>SPHERIQUE.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2072 2791 2075 2797; x_wconf 95' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 759 3221 1489 3274">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 759 3221 1489 3274">
+     <span class='ocr_line' id='line_1_4' title="bbox 759 3221 1489 3274; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 759 3230 764 3239; x_wconf 82' lang='lat'><strong><em>‘</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 907 3221 1489 3274; x_wconf 47' lang='grc' dir='ltr'><strong>’ν--ο--ῠ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2164 5648">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2164 5648">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2164 5648; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2164 5648; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
